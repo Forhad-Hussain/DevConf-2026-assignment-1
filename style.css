@@ -194,6 +194,9 @@ padding-top: 30px;
   background-color: #1f2937;
   margin: 24px 0;
 }
+.bullet-color::marker{
+    color: #1D4ED8;
+}
 /* Price card style end */
 /* welcome sec start */
 .encourage-for-welcome{
